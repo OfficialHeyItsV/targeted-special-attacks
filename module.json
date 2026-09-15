@@ -1,0 +1,36 @@
+{
+  "id": "targeted-special-attacks",
+  "title": "V's Targeted Attacks",
+  "description": "Adds standard and targeted attacks for D&D 5e, including player-side damage rolling, automatic or manual damage application for both GM and player rolls, native attack penalties, modified damage, target acquisition, GM-confirmed injuries, and Argon Combat HUD integration.",
+  "version": "0.2.28",
+  "authors": [
+    {
+      "name": "V"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.2",
+          "maximum": "5.3.3"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/special-attacks.js"
+  ],
+  "styles": [
+    "styles/special-attacks.css"
+  ],
+  "socket": true
+}
+
