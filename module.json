@@ -3,6 +3,8 @@
   "title": "V's Targeted Attacks",
   "description": "Adds standard and targeted attacks for D&D 5e, including player-side damage rolling, automatic or manual damage application for both GM and player rolls, native attack penalties, modified damage, target acquisition, GM-confirmed injuries, and Argon Combat HUD integration.",
   "version": "0.2.28",
+  "manifest": "https://raw.githubusercontent.com/OfficialHeyItsV/targeted-special-attacks/v0.2.28/module.json",
+  "download": "https://github.com/OfficialHeyItsV/targeted-special-attacks/releases/download/v0.2.28/vs-targeted-attacks-v0.2.28.zip",
   "authors": [
     {
       "name": "V"
@@ -33,4 +35,3 @@
   ],
   "socket": true
 }
-
